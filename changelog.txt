@@ -3,6 +3,7 @@ ALPHA 0.11.18 - July 25, 2024
     - Syntax:
     - /dim <target> <dim> - Sends you to a dimension.
     - /cdim <dim> - Creates a dimension.
+    - /dstats - Shows dimension stats.
 
 ALPHA 0.11.17 - July 25, 2024
 - Premium domain by bon (acropolis.ac).
