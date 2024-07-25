@@ -1,4 +1,10 @@
-Alpha 0.11.17 - July 25, 2024
+ALPHA 0.11.18 - July 25, 2024
+- Added dimensions for all players.
+    - Syntax:
+    - /dim <target> <dim> - Sends you to a dimension.
+    - /cdim <dim> - Creates a dimension.
+
+ALPHA 0.11.17 - July 25, 2024
 - Premium domain by bon (acropolis.ac).
 - All other clients will redirect you to the new one.
 - Ads soon (hopefully) [YAY].
