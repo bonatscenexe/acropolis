@@ -1,4 +1,12 @@
-ALPHA 0.12.01 - TODAY
+ALPHA 0.12.02 - August 10, 2024
+- Added /bc.
+    - Syntax: /bc <target> <message>, YouTuber+
+- Added /popup.
+    - Syntax: /popup <target> <title> <message>, YouTuper+
+- Added aliases to some commands.
+- Added "Event Winner" token.
+
+ALPHA 0.12.01 - August 9, 2024
 - ADS
 - LOVE
 - HOPE
