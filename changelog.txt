@@ -1,3 +1,7 @@
+ALPHA 0.12.03 - August 18, 2024
+- Added BULLETS!
+- Added polygons
+
 ALPHA 0.12.02 - August 10, 2024
 - Added /bc.
     - Syntax: /bc <target> <message>, YouTuber+
